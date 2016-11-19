@@ -3,6 +3,11 @@ Prompt #2 in the Department of Justice project
 
 Some Observations on the project:
 
+Plot 1: 
+![alt text] (https://github.com/billiescodes/project_DOJ/blob/master/plot1-2_Raw_PercentStatType.png)
++ More than 50% of all Black Juveniles are booked when in Police Custody
+
+
 Plot 3: shows all status_type percentages (grouped over status_type)  
 ![alt text] (https://github.com/billiescodes/project_DOJ/blob/master/plot3_PercentByStatus.png)
 
